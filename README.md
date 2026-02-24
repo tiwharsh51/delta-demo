@@ -1,2 +1,2 @@
 # delta-demo
-this is the Demo for Git and Github ckass.
+this is the Demo for Git and Github class.
